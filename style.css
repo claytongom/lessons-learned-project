@@ -1,6 +1,10 @@
+
+
 body {
     background-color: rgb(253, 251, 251);
     margin: 30px;
+    color: #11a36a; 
+    line-height: 30px;
 }
 
 #cabecalho {
@@ -8,6 +12,9 @@ body {
     top: 0%;
     border: 2px solid red;
     padding: 50px 30px 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif
+    
 }
 
 #minha_foto {
